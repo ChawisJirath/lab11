@@ -22,7 +22,7 @@ int findYugiAction(int s){
 	else{
 		// If current score is 6,7,8, Yugi will draw with probability 69% and will stay with probability 31% 
 		// Write conditions here using random number 
-	}
+	}	
 }
 
 void checkWinner(int p, int y){
