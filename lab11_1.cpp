@@ -7,7 +7,7 @@ int main(){
     string grade[9]={"A","B+","B","C+","C","D+","D","F","W"};
     srand(time(0));
     int n=rand()%9;
-    cout << "Press Enter 3 times to reveal your future.";
+    cout << "Press Enter 3 times to reveal your future." << endl;
     cin.get();
     cin.get();
     cin.get();
